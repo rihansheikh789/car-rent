@@ -13,7 +13,7 @@
 		font-size: 17px
 	}
 	.find-box {
-		background: #fff url(../img/find-box-bg.png) no-repeat scroll -45px 0px
+		background: #fff url(.../img/find-box-bg.png) no-repeat scroll -45px 0px
 	}
 	.single-service {
 		padding: 25px
@@ -92,7 +92,7 @@
 		height: 460px
 	}
 	.find-box {
-		background: #fff url(../img/find-box-bg.png) no-repeat scroll -120px 0
+		background: #fff url(.../img/find-box-bg.png) no-repeat scroll -120px 0
 	}
 	.find-text {
 		margin-top: 25px

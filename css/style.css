@@ -64,8 +64,8 @@ This files contents are outlined below >>>>
 01 - IMPORTED CSS
 ==================================================*/
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:500,500i,600,600i,700,700i,800,800i,900,900i&amp;display=swap');
-@import url('https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i&amp;display=swap');
+@import url('https://fonts.googleapis.com./css?family=Poppins:500,500i,600,600i,700,700i,800,800i,900,900i&amp;display=swap');
+@import url('https://fonts.googleapis.com./css?family=Rubik:300,300i,400,400i,500,500i,700,700i&amp;display=swap');
 
 /*================================================
 02 - DEFAULT CSS
@@ -566,7 +566,7 @@ button.gauto-theme-btn:hover {
 ==================================================*/
 
 .gauto-breadcromb-area {
-	background: url(../img/breadcromb.jpg) no-repeat fixed 0 0/cover;
+	background: url(../img/slider2.jpg) no-repeat fixed 0 0/cover;
 	position: relative;
 	z-index: 1;
 }
@@ -1582,7 +1582,7 @@ button.gauto-theme-btn:hover {
 	right: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
+	background: rgb(75 75 75 / 80%);
 	z-index: -1;
 }
 
@@ -1843,7 +1843,7 @@ button.gauto-theme-btn:hover {
 	right: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
+	background:rgb(75 75 75 / 80%);
 	z-index: -1;
 }
 
@@ -2392,10 +2392,6 @@ button.gauto-theme-btn:hover {
 	color: #aaaeb1
 }
 
-.quick-links {
-	float: left;
-	width: 45%;
-}
 
 .footer-logo {
 	margin-bottom: 15px;
@@ -2428,6 +2424,7 @@ button.gauto-theme-btn:hover {
 }
 
 .quick_links {
+	margin-left: 75px;
 	overflow: hidden
 }
 
